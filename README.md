@@ -153,7 +153,7 @@ AgentX 的知识库系统让您能够构建专业的知识体系，为 Agent 提
 
 ```bash
 # 下载配置文件模板
-curl -O https://raw.githubusercontent.com/lucky-aeon/AgentX/master/.env.example
+curl -O https://raw.githubusercontent.com/Mantraa-Zzz/AgentX/main/.env.example
 # 复制并编辑配置
 cp .env.example .env
 # 根据需要修改 .env 文件中的配置
@@ -271,7 +271,7 @@ docker run -d \
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/lucky-aeon/AgentX.git
+git clone https://github.com/Mantraa-Zzz/AgentX.git
 cd AgentX/deploy
 
 # 2. 启动开发环境（Linux/macOS）
@@ -331,7 +331,7 @@ AgentX使用`.env`配置文件进行环境变量管理，支持丰富的自定�
 
 ```bash
 # 1. 获取配置模板
-curl -O https://raw.githubusercontent.com/lucky-aeon/AgentX/main/.env.example
+curl -O https://raw.githubusercontent.com/Mantraa-Zzz/AgentX/main/.env.example
 
 # 2. 创建配置文件
 cp .env.example .env
